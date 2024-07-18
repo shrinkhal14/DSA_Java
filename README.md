@@ -7,4 +7,4 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
 3. Insertion Sort
 4. Bubble Sort
 5. Basic Recursion Programs
-    •Subsequence of a string
+•Subsequence of a string
