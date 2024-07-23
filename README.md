@@ -9,3 +9,6 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
 - Bubble Sort
 - Basic Recursion Programs
   - Subsequence of a string
+  - Subsequence of an array
+  - Tiling Problem
+  - Friends Pairing Problem
