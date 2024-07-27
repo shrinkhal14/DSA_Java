@@ -13,5 +13,4 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - Tiling Problem
   - Friends Pairing Problem
   - Consecutive Ones
-  -
-  Backtracking
+
