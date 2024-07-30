@@ -14,4 +14,5 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - Friends Pairing Problem
   - Consecutive Ones
 - Backtracking
-  -Array Example(OnArray)
+  - Array Example(OnArray)
+  - Find Subsets
