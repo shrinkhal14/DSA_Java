@@ -16,3 +16,4 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
 - Backtracking
   - Array Example(OnArray)
   - Find Subsets
+  - Find Permutations of a string
