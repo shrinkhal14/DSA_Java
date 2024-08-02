@@ -17,3 +17,5 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - Array Example(OnArray)
   - Find Subsets
   - Find Permutations of a string
+  - nQueens
+  - Grid Ways
