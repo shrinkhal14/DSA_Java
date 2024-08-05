@@ -19,3 +19,4 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - Find Permutations of a string
   - nQueens
   - Grid Ways
+  - Sudoku
