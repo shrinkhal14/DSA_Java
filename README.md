@@ -20,3 +20,4 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - nQueens
   - Grid Ways
   - Sudoku
+  - Word Search Leetcode
