@@ -21,4 +21,4 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - Grid Ways
   - Sudoku
   - Word Search Leetcode
-  - Rat In A Maze gfg
+  - Rat In A Maze GFG
