@@ -1,3 +1,4 @@
+
 # Basic Algorithms in Data Structures and Algorithms (DSA) using Java
 
 This repository contains basic algorithms in Data Structures and Algorithms (DSA) implemented using Java.
@@ -24,3 +25,6 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - Sudoku
   - Word Search Leetcode
   - Rat In A Maze GFG
+- Stack
+   - Basic Implementation
+
