@@ -27,4 +27,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - Rat In A Maze GFG
 - Stack
    - Basic Implementation
+   - Push At Bottom
+   - Reverse String using Stack
+   - Reverse Stack using Recursion
 
