@@ -30,4 +30,5 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
    - Push At Bottom
    - Reverse String using Stack
    - Reverse Stack using Recursion
+   - Infix to Postfix
 
