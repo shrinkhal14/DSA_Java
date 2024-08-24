@@ -1,0 +1,32 @@
+class Solution {
+    static String preToPost(String pre_exp) {
+        // Create a stack to hold strings
+        Stack<String> st = new Stack<>();
+        int length = pre_exp.length();
+        
+        // Traverse the prefix expression from right to left
+        for (int i = length - 1; i >= 0; i--) {
+            char ch = pre_exp.charAt(i);
+            
+            // If the character is an operand, push it to the stack
+            if (Character.isLetterOrDigit(ch)) {
+                st.push(Character.toString(ch));
+            }
+            // If the character is an operator
+            else {
+                // Pop two operands from stack
+                String op1 = st.pop();
+                String op2 = st.pop();
+                
+                // Combine them in the order op1 op2 operator and push back
+                String temp = op1 + op2 + ch;
+                st.push(temp);
+            }
+        }
+        
+        // The final element of the stack is the resulting postfix expression
+        return st.pop();
+    }
+
+
+}
