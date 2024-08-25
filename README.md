@@ -31,4 +31,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
    - Reverse String using Stack
    - Reverse Stack using Recursion
    - Infix to Postfix
+   - Prefix to Infix
+   - Postfix to Prefix
+   - Prefix to Postfix
 
