@@ -34,6 +34,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
    - Prefix to Infix
    - Postfix to Prefix
    - Prefix to Postfix
+   - Next Smallest Element Leetcode
 - Random Questions
   - Formatting Large Products
   - Rat Count House
