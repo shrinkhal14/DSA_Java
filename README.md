@@ -36,6 +36,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
    - Next Smallest Element Leetcode
    - Sum Of Subarray Minimums Leetcode
    - Remove K Digits Leetcode
+   - Asteroid Collision
 - Random Questions
   - Formatting Large Products
   - Rat Count House
