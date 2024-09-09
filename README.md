@@ -37,6 +37,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
    - Sum Of Subarray Minimums Leetcode
    - Remove K Digits Leetcode
    - Asteroid Collision
+   - Largest Rectangle in Histogram
 - Random Questions
   - Formatting Large Products
   - Rat Count House
