@@ -9,6 +9,8 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
 - Bubble Sort
 - Arrays
    - Sort Colors Leetcode
+- Linked List
+   - Add Two Numbers
 - Basic Recursion Programs
   - Subsequence of a string
   - Subsequence of an array
