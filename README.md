@@ -12,6 +12,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
 - Linked List
    - Add Two Numbers
    - Delete Node in a Linked List
+   - Palindrome Linked List
 - Basic Recursion Programs
   - Subsequence of a string
   - Subsequence of an array
