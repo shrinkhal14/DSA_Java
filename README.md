@@ -42,6 +42,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
    - Remove K Digits Leetcode
    - Asteroid Collision
    - Largest Rectangle in Histogram
+   - Next Greater Element 1
 - Random Questions
   - Formatting Large Products
   - Rat Count House
