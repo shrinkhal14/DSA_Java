@@ -46,4 +46,7 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
 - Random Questions
   - Formatting Large Products
   - Rat Count House
+- Hash Maps
+  - Basics
+  - character frequncy in a string
 
