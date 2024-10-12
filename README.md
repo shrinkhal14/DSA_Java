@@ -49,4 +49,6 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
 - Hash Maps
   - Basics
   - character frequncy in a string
+- Queue
+  - Array Implementation Of Queue
 
