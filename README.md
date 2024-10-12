@@ -51,4 +51,5 @@ This repository contains basic algorithms in Data Structures and Algorithms (DSA
   - character frequncy in a string
 - Queue
   - Array Implementation Of Queue
+  - Circular queue using Array
 
